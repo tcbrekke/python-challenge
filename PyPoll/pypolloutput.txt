@@ -1,0 +1,14 @@
+Election Results
+--------------------
+Total votes: 4324001
+--------------------
+Vestal: 8.91% (385440 votes)
+Torres: 8.17% (353320 votes)
+Seth: 0.93% (40150 votes)
+Cordin: 0.56% (24090 votes)
+Khan: 51.30% (2218231 votes)
+Correy: 16.29% (704200 votes)
+Li: 11.40% (492940 votes)
+O'Tooley: 2.44% (105630 votes)
+--------------------
+Winner: Khan
