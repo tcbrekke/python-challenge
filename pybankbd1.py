@@ -8,7 +8,7 @@ date_relabel =[]
 
 pybank_one = os.path.join("PyBank", "budget_data_1.csv")
 pybank_two = os.path.join("PyBank", "budget_data_2.csv")
-output_txt_file = os.path.join("PyBank", "pybankoutput.txt")
+output_txt_file = os.path.join("PyBank", "pybankoutputbd1.txt")
 
 def store_values(input_csv):
 
@@ -39,7 +39,6 @@ def store_values(input_csv):
 
 
 store_values(pybank_one)
-store_values(pybank_two)
 
 bank_data_combined = {key : sum(values) for key, values in bank_data.items()}
 

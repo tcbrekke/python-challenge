@@ -2,6 +2,6 @@ Financial Analysis
 -----------------------------
 Total revenue: $55945323
 Total months of data: 86
-Average revenue change: $-18851
-Greatest monthly increase in revenue: $2211086
-Greatest monthly decrease in revenue: $-1063151
+Average revenue change: $6859.33
+Greatest monthly increase in revenue: $2214907
+Greatest monthly decrease in revenue: $-2293129
